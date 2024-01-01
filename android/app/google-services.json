@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "318472892043",
+    "project_id": "karry-app-c5032",
+    "storage_bucket": "karry-app-c5032.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318472892043:android:c1b580c06ef01440f86e8e",
+        "android_client_info": {
+          "package_name": "com.example.karry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5vchOKWBP4RMpCGW3nvJa2ZLbNnoMEz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
